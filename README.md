@@ -7,7 +7,7 @@ Water Quality Model Neural Networks
 
 ## Model Architecture
 <a href="https://github.com/fziilk/WQ-Model-3-NN">
-  <img src="https://raw.githubusercontent.com/fziilk/WQ-Model-3-NN/refs/heads/master/architecture_alpha.png" alt="M3" width="1000" align="center"/>
+  <img src="https://raw.githubusercontent.com/fziilk/WQ-Model-3-NN/refs/heads/master/architecture_alpha.png" alt="M3" width="600" align="center"/>
 </a>
 
 ## Model Evaluation
@@ -23,4 +23,4 @@ Water Quality Model Neural Networks
 ```
 
 ## Testing
-Visit the [evaluation notebook](https://github.com/fziilk/WQ-Model-3-NN/blob/master/EVAL_MODEL3_NN_WQ.ipynb) to see how to load and get predictions from both version of the TLDI model.
+Visit the [evaluation notebook](https://github.com/fziilk/WQ-Model-3-NN/blob/master/EVAL_MODEL3_NN_WQ.ipynbgit) to see how to load and get predictions from the model.
